@@ -7,8 +7,8 @@
 ## This Python script creates the HD Climograph of a place which can be used anywhere.
 ## I wrote this Python program while drawing Climograph of a botanical reserch I did on Indian Cryptocoryne, I need the Climograph of the place, included in my paper (Not yet published)
 #### There are 2 versions
-#### 1. Cute Seaborn version
-#### 2. Nice Matplotlib Version
+#### 1. Cute Seaborn version 
+#### 2. Nice Matplotlib Version [Here] (https://github.com/kephalian/Climograph_in_Python/blob/main/climograph_pure_matplot_lib.py)
 Please modify the list shown below using your climate data obtained from sites like [Pune climate] (https://en.climate-data.org/asia/india/maharashtra/pune-31/) or this site which I like [Better site for Pune Climate](https://www.weather-atlas.com/en/india/pune-climate)
 ```
  # set height of bar
