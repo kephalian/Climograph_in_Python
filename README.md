@@ -1,4 +1,5 @@
-# Climograph_in_Python
+#### Drawing Climograph in Python
+![Climograph of Konkan](https://github.com/kephalian/Climograph_in_Python/blob/main/Climatograph_chiplun.png)
 Utlilty for drawing Climographs in Python using Seaborn (Climographs show average temperatures and rainfall on a single graph of a place)
 ## Climographs are graphical representations of  climate of a place.
 ## These graphs show Rainfall, Temperature and Humidity of a place.
