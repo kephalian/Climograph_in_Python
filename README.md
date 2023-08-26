@@ -4,7 +4,7 @@
 
 My Chapter 
 ## Use of Python Modules in Ecological Research
-![IGI Global here](https://www.igi-global.com/chapter/use-of-python-modules-in-ecological-research/327260)
+[IGI Global here](https://www.igi-global.com/chapter/use-of-python-modules-in-ecological-research/327260)
 ## Utlilty for drawing Climographs in Python using Seaborn (Climographs show average temperatures and rainfall on a single graph of a place)
 ## Climographs are graphical representations of  climate of a place.
 ## These graphs show Rainfall, Temperature and Humidity of a place.
